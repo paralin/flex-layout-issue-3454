@@ -1,0 +1,6 @@
+@import '../node_modules/@aptre/flex-layout/style/underline.css';
+
+#root {
+    position: absolute;
+    inset: 0;
+}
